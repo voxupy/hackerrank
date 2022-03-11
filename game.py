@@ -28,5 +28,5 @@ while score != 3:
     else:
         score += 1
 
-    print(score)
+    print(score
 
