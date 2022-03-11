@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d438079-a46a-4f26-82ea-ba971e64e891" name="voxr">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="3.71.214.164" port="22" sshConfigId="ecae7aa8-77fd-49fb-8bd0-5cbddd2683c0" sshConfig="voxr@3.71.214.164:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
